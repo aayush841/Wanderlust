@@ -49,7 +49,4 @@ echo "SESSION_SECRET=your_session_secret" >> .env
 # 4️⃣ Start the Server 
 ```sh
 nodemon app.js
-```
-
-# Open in your browser  
-xdg-open http://localhost:3000 || open http://localhost:3000  
+``` 
