@@ -27,7 +27,7 @@ To set up and run Wanderlust locally, execute the following commands:
 
 # 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/aayush841/wanderlust.git  
+git clone https://github.com/aayush841/Wanderlust.git  
 cd wanderlust  
 ```
 
